@@ -46,9 +46,10 @@
     max-width: 1000px;
     margin: auto;
     background-color: #ffffff;
-    background-image: url(../images/base2.png);
+    background-image: url(/images/base2.png);
     box-shadow: 3px 3px 15px #636567;
 }
+
 
 
 .headNav {
