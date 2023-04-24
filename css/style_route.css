@@ -76,7 +76,7 @@ body {
     max-width: 1000px;
     margin: auto;
     background-color: #ffffff;
-    background-image: url(/images/base2.png);
+    background-image: url(/images/base.png);
     box-shadow: 3px 3px 15px #636567;
 }
 .headNav {
@@ -84,14 +84,14 @@ body {
     margin-top: 0;
     max-width: 1000px;
     height: 130px;
-    background-image: url(/images/head2.png);
+    background-image: url(/images/head.png);
 }
 
 .logo {
     position: absolute;
     width: 104px;
     height: 75px;
-    background-image: url(/images/bike2.png);
+    background-image: url(/images/biketrav.png);
     background-repeat: no-repeat;
     margin: 36px 0 0 60px;
 }
@@ -136,8 +136,6 @@ body {
     float: right;
     margin-right: 85px;
 }
-
-
 
 table {
     width: 900px;
@@ -207,7 +205,7 @@ p {
 #pattern {
     margin-top: 0;
     height: auto;
-    background-image: url(/images/bike0-2.png);
+    background-image: url(/images/bikepat.png);
     background-attachment:fixed;
 }
 
@@ -278,13 +276,13 @@ li {
     font-family: Arial, Helvetica, sans-serif, sans-serif;
     max-width: 1000px;
     height: 200px;
-    background-image: url(/images/Footer2.png);
+    background-image: url(/images/footer.png);
     border-top: 5px double #636567;
     
 }
 
 #fb {
-    background: url(/images/icons/facebook_icon-icons.com_53612.png) no-repeat left center;
+    background: url(/images/icons/facebook.png) no-repeat left center;
     width: auto;
     height: 25px;
     /* padding-left: 40px; */
@@ -292,7 +290,7 @@ li {
 }
 
 #inst{
-    background: url(/images/icons/Instagram_icon-icons.com_66804.png) no-repeat left center;
+    background: url(/images/icons/instagram.png) no-repeat left center;
     width: auto;
     height: 25px;
     /* padding-left: 40px; */
