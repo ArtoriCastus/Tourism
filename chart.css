@@ -282,14 +282,14 @@ a {
 }
 
 #fb {
-    background: url(/images/icons/facebook.png) no-repeat left center;
+    background: url(/images/facebook.png) no-repeat left center;
     width: auto;
     height: 25px;
     
 }
 
 #inst{
-    background: url(images/icons/Instagram.png) no-repeat left center;
+    background: url(images/Instagram.png) no-repeat left center;
     width: auto;
     height: 25px;
 }
