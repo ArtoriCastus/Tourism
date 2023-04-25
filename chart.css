@@ -54,7 +54,7 @@ body {
     max-width: 1000px;
     margin: auto;
     background-color: #ffffff;
-    background-image: url(/images/base.png);
+    background-image: url(images/base.png);
     box-shadow: 3px 3px 15px #636567;
 }
 .headNav {
@@ -62,14 +62,14 @@ body {
     margin-top: 0;
     max-width: 1000px;
     height: 130px;
-    background-image: url(/images/head.png);
+    background-image: url(images/head.png);
 }
 
 .logo {
     position: absolute;
     width: 104px;
     height: 75px;
-    background-image: url(/images/biketrav.png);
+    background-image: url(images/biketrav.png);
     background-repeat: no-repeat;
     margin: 36px 0 0 60px;
 }
@@ -100,7 +100,7 @@ body {
     padding: 10px;
     color: #000;
     text-decoration: none;
-    background-image: url(/images/sprite.png);
+    background-image: url(images/sprite.png);
     text-align: center;
 }
 
@@ -198,7 +198,7 @@ p {
 #pattern {
     margin-top: 0;
     height: auto;
-    background-image: url(/images/bikepat.png);
+    background-image: url(images/bikepat.png);
     background-attachment:fixed;
 }
 
@@ -276,7 +276,7 @@ a {
     font-family: Arial, Helvetica, sans-serif, sans-serif;
     max-width: 1000px;
     height: 200px;
-    background-image: url(/images/footer.png);
+    background-image: url(images/footer.png);
     border-top: 5px double #636567;
     
 }
@@ -289,7 +289,7 @@ a {
 }
 
 #inst{
-    background: url(/images/icons/Instagram.png) no-repeat left center;
+    background: url(images/icons/Instagram.png) no-repeat left center;
     width: auto;
     height: 25px;
 }
